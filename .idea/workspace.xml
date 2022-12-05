@@ -27,13 +27,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day5" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day5" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/day3" />
       <recent name="$PROJECT_DIR$/day2" />
@@ -48,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669964900809</updated>
       <workItem from="1669964902497" duration="7171000" />
+      <workItem from="1670244224999" duration="5047000" />
     </task>
     <servers />
   </component>
