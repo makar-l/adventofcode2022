@@ -27,18 +27,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day17" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day15" />
+      <recent name="$PROJECT_DIR$/day17" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day16" />
+      <recent name="$PROJECT_DIR$/day15" />
       <recent name="$PROJECT_DIR$/day14" />
-      <recent name="$PROJECT_DIR$/day13" />
-      <recent name="$PROJECT_DIR$/day12" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +51,9 @@
       <updated>1669964900809</updated>
       <workItem from="1669964902497" duration="7171000" />
       <workItem from="1670244224999" duration="20628000" />
-      <workItem from="1670591899265" duration="63181000" />
+      <workItem from="1670591899265" duration="72755000" />
+      <workItem from="1671439901608" duration="7964000" />
+      <workItem from="1673027976561" duration="9208000" />
     </task>
     <servers />
   </component>
